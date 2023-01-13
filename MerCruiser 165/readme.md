@@ -16,7 +16,9 @@ https://web.statler.wvu.edu/~mathews/boat/pdf/manual/Chapter%20Six.PDF
 
 sch: https://www.google.com/search?q=gm+250+inline+6
 
-wiki: https://www.junkyardmob.com/guides/chevrolet-250-inline-six-engine
+wiki: https://en.wikipedia.org/wiki/Chevrolet_Turbo-Thrift_engine
+
+guide: https://www.junkyardmob.com/guides/chevrolet-250-inline-six-engine
 
 discussion:
 - https://www.thehulltruth.com/boating-forum/1008703-does-anyone-run-mercruiser-l6-165-s-still.html
